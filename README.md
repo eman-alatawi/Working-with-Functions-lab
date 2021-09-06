@@ -6,6 +6,6 @@ This section will guide you to:
 
 
 This lab has three subsections, namely:
- - 2.2.1 Writing a program in JavaScript to verify implementation of functions
- - 2.2.2 Executing the program and verifying implementation of functions
- - 2.2.3 Pushing the code to your GitHub repositories
+ - 2.3.1 Writing a program in JavaScript to verify implementation of functions
+ - 2.3.2 Executing the program and verifying implementation of functions
+ - 2.3.3 Pushing the code to your GitHub repositories
